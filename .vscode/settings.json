@@ -1,0 +1,53 @@
+{
+    "workbench.colorTheme": "Visual Studio 2019 Dark",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.unicodeHighlight.allowedCharacters": {
+        " ": true,
+        " ": true,
+        "à": true,
+        "è": true,
+        "ò": true
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "vsicons.dontShowNewVersionMessage": true,
+    "editor.largeFileOptimizations": false,
+    "editor.minimap.enabled": false,
+    "git.autofetch": true,
+    "emmet.preferences": {
+        
+    },
+    "emmet.syntaxProfiles": {
+
+    },
+    "emmet.includeLanguages": {
+        "aspnetcorerazor": "html"
+    },
+    "cSpell.userWords": [
+        "Catalogo",
+        "cognome",
+        "corsi",
+        "Corso",
+        "Descrizione",
+        "Lezione"
+    ],
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "always"
+    },
+    "editor.language.brackets": [
+        ["C#"]
+    ],
+    "dotnetAcquisitionExtension.existingDotnetPath": [
+        {
+            "extensionId": "ms-dotnettools.csharp",
+            "path": "C:\\Programmi\\dotnet\\dotnet.exe"
+        }
+    ],
+    "dotnet.backgroundAnalysis.analyzerDiagnosticsScope": "fullSolution",
+    "dotnet.completion.showNameCompletionSuggestions": false,
+    "dotnet.backgroundAnalysis.compilerDiagnosticsScope": "fullSolution",
+    "csharp.experimental.debug.hotReload": true,
+    "intellicodeApiExamples.loggingLevel": "ALL",
+    "debug.javascript.debugByLinkOptions": "on",
+    "omnisharp.autoStart": true
+}
